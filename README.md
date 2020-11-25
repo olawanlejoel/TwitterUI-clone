@@ -1,4 +1,7 @@
-# twitter-clone
+# Twitter-clone
+
+This is a very simple clone of Twitter UI built with TailwindCSS & VueJs.
+
 
 ## Project setup
 ```
