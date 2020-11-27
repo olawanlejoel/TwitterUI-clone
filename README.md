@@ -1,6 +1,6 @@
 # Twitter-clone
 
-This is a very simple clone of Twitter UI built with TailwindCSS & VueJs.
+This is a very simple clone of Twitter UI built with TailwindCSS & VueJs, though it's not really mobile responsive but it helped me learn faster.
 
 
 ## Project setup
